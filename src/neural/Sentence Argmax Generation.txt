@@ -1,0 +1,44 @@
+Bad Movie Model: [maxlen 8] [seed=['this']] this way out here now right there now now .
+Good Movie Model: [maxlen 8] [seed=['this']] this way out there is it over there anymore .
+
+Bad Movie Model: [maxlen 8] [seed=['this', 'is']] this is amazing day one thing happened again down there .
+Good Movie Model: [maxlen 8] [seed=['this', 'is']] this is it here now now not you know it .
+
+Bad Movie Model: [maxlen 6] [seed=['there', 'is']] there is it here goes there now there .
+Good Movie Model: [maxlen 6] [seed=['there', 'is']] there is it here now now not not .
+
+Bad Movie Model: [maxlen 10] [seed=['i']] i know what happened now here before you know that means .
+Good Movie Model: [maxlen 10] [seed=['i']] i know that guy croaks up here now now now now .
+
+Bad Movie Model: [maxlen 10] [seed=['i', 'am']] i am beowulf it out there is here now right now going .
+Good Movie Model: [maxlen 10] [seed=['i', 'am']] i am not good enough enough now there is it now now .
+
+Bad Movie Model: [maxlen 5] [seed=['if']] if what happened him again now .
+Good Movie Model: [maxlen 5] [seed=['if']] if what happened here now now .
+
+Bad Movie Model: [maxlen 7] [seed=['the', 'man', 'in', 'the']] the man in the way off me again comes back here .
+Good Movie Model: [maxlen 7] [seed=['the', 'man', 'in', 'the']] the man in the corner room street away night now up .
+
+Bad Movie Model: [maxlen 7] [seed=['how', 'can', 'there']] how can there you go back there back there there .
+Good Movie Model: [maxlen 7] [seed=['how', 'can', 'there']] how can there happen there again me again there again .
+
+Bad Movie Model: [maxlen 4] [seed=['i', 'hope']] i hope so much more right .
+Good Movie Model: [maxlen 4] [seed=['i', 'hope']] i hope not not exactly so .
+
+Bad Movie Model: [maxlen 10] [seed=['what', 'did', 'you']] what did you say that '' man what happened here now now now .
+Good Movie Model: [maxlen 10] [seed=['what', 'did', 'you']] what did you say that thing about me anyway again now here now .
+
+Bad Movie Model: [maxlen 6] [seed=['how', 'many', 'of', 'the']] how many of the world now doing here now you .
+Good Movie Model: [maxlen 6] [seed=['how', 'many', 'of', 'the']] how many of the children station exists building five years .
+
+Bad Movie Model: [maxlen 6] [seed=['the', 'only']] the only time keeper time now now now .
+Good Movie Model: [maxlen 6] [seed=['the', 'only']] the only one way out there is it .
+
+Bad Movie Model: [maxlen 3] [seed=['what', 'the']] what the hell happened here .
+Good Movie Model: [maxlen 3] [seed=['what', 'the']] what the hell for you .
+
+Bad Movie Model: [maxlen 5] [seed=['who', 'did']] who did you know that guy is .
+Good Movie Model: [maxlen 5] [seed=['who', 'did']] who did it n't happen there again .
+
+Bad Movie Model: [maxlen 16] [seed=['so', 'if', 'something']] so if something else here goes there now right now there now going back there now now going back .
+Good Movie Model: [maxlen 16] [seed=['so', 'if', 'something']] so if something wrong is it here now now here now now here today now now now now now .

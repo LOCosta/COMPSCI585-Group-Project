@@ -1,0 +1,806 @@
+
+
+------Bad Movie Model------
+Starting string: 'maintain '
+Predicted end word: 'it'
+Actual end word: 'perimeter'
+
+Starting string: ''
+Predicted end word: '.'
+Actual end word: '.'
+
+Starting string: 'i got '
+Predicted end word: 'it'
+Actual end word: 'it'
+
+Starting string: 'yeah , '
+Predicted end word: 'yeah'
+Actual end word: 'mike'
+
+Starting string: 'why did n't you tell '
+Predicted end word: 'me'
+Actual end word: 'me'
+
+Starting string: 'you 'll have to climb the ice pillar and get '
+Predicted end word: 'it'
+Actual end word: 'it'
+
+Starting string: 'jane , there is no '
+Predicted end word: 'choice'
+Actual end word: 'curse'
+
+Starting string: 'but for me it was '
+Predicted end word: 'it'
+Actual end word: 'tuesday'
+
+Starting string: 'why are you '
+Predicted end word: 'stopa'
+Actual end word: 'stalling'
+
+Starting string: 'you are on the verge of destroying the entire '
+Predicted end word: 'world'
+Actual end word: 'universe'
+
+Starting string: 'whichever crew wins today , you 're gon na wan na remember their faces because the next time you 'll see them will be lil ' ~kim 's new '
+Predicted end word: 'york'
+Actual end word: 'video'
+
+Starting string: 'come on , '
+Predicted end word: 'baby'
+Actual end word: 'y'all'
+
+Starting string: 'johnny fucks lisa ’ s belly '
+Predicted end word: 'down'
+Actual end word: 'button'
+
+Starting string: 'so if something looks familiar , heads '
+Predicted end word: 'up'
+Actual end word: 'up'
+
+Starting string: 'uh actually i like '
+Predicted end word: 'that'
+Actual end word: 'popcorn'
+
+Starting string: 'yes , sir , mr. '
+Predicted end word: 'black'
+Actual end word: 'johnson'
+
+Starting string: 'frederick '
+Predicted end word: 'you'
+Actual end word: 'flintstone'
+
+Starting string: ''
+Predicted end word: '.'
+Actual end word: 'whatever'
+
+Starting string: 'batgirl those targeting mirrors are '
+Predicted end word: 'batgirl'
+Actual end word: 'frozen'
+
+Starting string: '330 ivy presses a button and the door slides '
+Predicted end word: 'open'
+Actual end word: 'open'
+
+Starting string: 'you 're writing a little story , '
+Predicted end word: 'right'
+Actual end word: 'huh'
+
+Starting string: 'you stole my good '
+Predicted end word: 'shot'
+Actual end word: 'pair'
+
+Starting string: 'i think i broke my other '
+Predicted end word: 'fin'
+Actual end word: 'arm'
+
+Starting string: ''
+Predicted end word: '.'
+Actual end word: 'amy'
+
+Starting string: 'i 'm '
+Predicted end word: 'sorry'
+Actual end word: 'carlos'
+
+Starting string: ''
+Predicted end word: '.'
+Actual end word: 'hi'
+
+Starting string: '426 00:24:06,600 00:24:10,092 oh , '
+Predicted end word: 'yeah'
+Actual end word: 'yeah'
+
+Starting string: 'wilma '
+Predicted end word: 'is'
+Actual end word: 'slaghoople'
+
+Starting string: ''
+Predicted end word: '.'
+Actual end word: 'yeah'
+
+Starting string: 'why are you ignoring '
+Predicted end word: 'me'
+Actual end word: 'me'
+
+Starting string: 'no , i 'm not telling '
+Predicted end word: 'you'
+Actual end word: 'you'
+
+Starting string: 'this should cheer us '
+Predicted end word: 'up'
+Actual end word: 'up'
+
+Starting string: 'in their wake a hundred doubletakes , astonished '
+Predicted end word: 'vampires'
+Actual end word: 'glances'
+
+Starting string: ''
+Predicted end word: '.'
+Actual end word: '.'
+
+Starting string: 'listen , max what matters now is you and your mom can move on with your '
+Predicted end word: 'mouth'
+Actual end word: 'lives'
+
+Starting string: 'captain callahan , 511. sergeant jones , 513. sergeant tackleberry , 514. cadet connors , 520. captain harris , 515. not exactly a fourstar hotel , is '
+Predicted end word: 'it'
+Actual end word: 'it'
+
+Starting string: 'i '
+Predicted end word: 'know'
+Actual end word: 'know'
+
+Starting string: 'you know what happens '
+Predicted end word: 'now'
+Actual end word: 'now'
+
+Starting string: 'get off of '
+Predicted end word: 'me'
+Actual end word: 'me'
+
+Starting string: 'what just '
+Predicted end word: 'happened'
+Actual end word: 'happened'
+
+Starting string: 'let 's '
+Predicted end word: 'go'
+Actual end word: 'go'
+
+Starting string: 'i can ’ t wait till '
+Predicted end word: 'now'
+Actual end word: 'later'
+
+Starting string: ''
+Predicted end word: '.'
+Actual end word: 'please'
+
+Starting string: 'his only facebook friend is mel '
+Predicted end word: 'open'
+Actual end word: 'gibson'
+
+Starting string: 'mmm , yeah , he '
+Predicted end word: 'is'
+Actual end word: 'did'
+
+Starting string: 'you 're lucky you even in the '
+Predicted end word: 'world'
+Actual end word: 'avengers'
+
+Starting string: 'i hope it never '
+Predicted end word: 'have'
+Actual end word: 'ends'
+
+Starting string: 'good '
+Predicted end word: 'luck'
+Actual end word: 'evening'
+
+Starting string: 'a handsome bouncer stands '
+Predicted end word: 'out'
+Actual end word: 'guard'
+
+Starting string: 'keep '
+Predicted end word: 'trying'
+Actual end word: 'looking'
+
+Starting string: 'she wants to torture you , for what you did to '
+Predicted end word: 'do'
+Actual end word: 'jack'
+
+Starting string: 'we got ta get these computers checked '
+Predicted end word: 'out'
+Actual end word: 'out'
+
+Starting string: ''
+Predicted end word: '.'
+Actual end word: 'what'
+
+Starting string: 'you 're '
+Predicted end word: 'right'
+Actual end word: 'right'
+
+Starting string: 'no , i 'm going '
+Predicted end word: 'on'
+Actual end word: 'home'
+
+Starting string: 'be '
+Predicted end word: 'careful'
+Actual end word: 'proud'
+
+Starting string: 'why did n't you say you wanted him in the first '
+Predicted end word: 'day'
+Actual end word: 'place'
+
+Starting string: 'yeah , for a little '
+Predicted end word: 'bit'
+Actual end word: 'bit'
+
+Starting string: 'patience 'miracle ingredient in beaunique just a drop makes wrinkles vanish , blah blah blah ' but what is '
+Predicted end word: 'out'
+Actual end word: 'it'
+
+Starting string: 'i have n't touched your '
+Predicted end word: 'feelings'
+Actual end word: 'seat'
+
+Starting string: '30 freeze is racing towards the altar and his fallen '
+Predicted end word: 'place'
+Actual end word: 'gun'
+
+Starting string: 'he did n't come '
+Predicted end word: 'on'
+Actual end word: 'up'
+
+Starting string: 'let 's have a '
+Predicted end word: 'toast'
+Actual end word: 'party'
+
+Starting string: ''
+Predicted end word: '.'
+Actual end word: 'girlfriend'
+
+Starting string: 'passed '
+Predicted end word: 'it'
+Actual end word: 'away'
+
+Starting string: 'everyone exits '
+Predicted end word: 'on'
+Actual end word: 'enthusiastically'
+
+Starting string: 'he 's out there '
+Predicted end word: 'back'
+Actual end word: 'somewhere'
+
+Starting string: 'it 's 8:30 in the morning , my '
+Predicted end word: 'baby'
+Actual end word: 'time'
+
+Starting string: 'thank '
+Predicted end word: 'you'
+Actual end word: 'you'
+
+Starting string: 'how could you do that to '
+Predicted end word: 'happen'
+Actual end word: 'me'
+
+Starting string: '943 00:50:22,266 00:50:23,699 big '
+Predicted end word: 'time'
+Actual end word: 'time'
+
+Starting string: 'that would really be a spectacular '
+Predicted end word: 'thing'
+Actual end word: 'event'
+
+Starting string: 'with all due respect , mr cummings , he was the president of united states an unfortunate accident and besides , i cant stand the wife denied '
+Predicted end word: 'what'
+Actual end word: 'next'
+
+Starting string: 'it 's all very dark in '
+Predicted end word: 'here'
+Actual end word: 'there'
+
+Starting string: 'you get a plus for being the first hand in the '
+Predicted end word: 'house'
+Actual end word: 'air'
+
+Starting string: 'you know , there 's that little village not too far from '
+Predicted end word: 'her'
+Actual end word: 'here'
+
+Starting string: ''
+Predicted end word: '.'
+Actual end word: 'oh'
+
+Starting string: 'work your whole bicuspids area , your whole bilaterals and '
+Predicted end word: 'paper'
+Actual end word: 'bisexuals'
+
+Starting string: 'sorry , mrs. '
+Predicted end word: 'trent'
+Actual end word: 'peacock'
+
+Starting string: 'this is n't very good '
+Predicted end word: 'one'
+Actual end word: 'food'
+
+Starting string: 'take this '
+Predicted end word: 'out'
+Actual end word: 'man'
+
+Starting string: 'they 've been acting strange for '
+Predicted end word: 'us'
+Actual end word: 'days'
+
+Starting string: ''' oh , that 's '
+Predicted end word: 'it'
+Actual end word: 'rich'
+
+Starting string: 'maybe there 's like a priest inside who can help '
+Predicted end word: 'me'
+Actual end word: 'us'
+
+Starting string: ''
+Predicted end word: '.'
+Actual end word: 'hey'
+
+Starting string: 'that was just the amuse '
+Predicted end word: 'thing'
+Actual end word: 'bouche'
+
+Starting string: 'it belongs to the guardian of the good '
+Predicted end word: 'time'
+Actual end word: 'lmoogi'
+
+Starting string: ''
+Predicted end word: '.'
+Actual end word: 'piease'
+
+Starting string: ''
+Predicted end word: '.'
+Actual end word: 'everyone'
+
+Starting string: '534 '
+Predicted end word: 'int'
+Actual end word: 'int'
+
+Starting string: ''
+Predicted end word: '.'
+Actual end word: 'larry'
+
+Starting string: 'she 's like the ones at the '
+Predicted end word: 'hand'
+Actual end word: 'baywatch'
+
+Starting string: 'it 's '
+Predicted end word: 'okay'
+Actual end word: 'real'
+
+Starting string: 'what do you '
+Predicted end word: 'mean'
+Actual end word: 'want'
+
+Starting string: 'crime 's worst '
+Predicted end word: 'thing'
+Actual end word: 'nightmare'
+
+Starting string: 'are you planning to tie the '
+Predicted end word: 'phone'
+Actual end word: 'knot'
+
+Starting string: ''
+Predicted end word: '.'
+Actual end word: 'ooh'
+
+Starting string: 'no , if you 'll join forces with me , together we can make the world safe for war profits '
+Predicted end word: 'gals'
+Actual end word: 'again'
+
+Starting string: 'there 's some good '
+Predicted end word: 'idea'
+Actual end word: 'news'
+
+Starting string: '[ door closes ] oh , '
+Predicted end word: 'psst'
+Actual end word: 'jesus'
+
+
+
+------Good Movie Model------
+Starting string: ''
+Predicted end word: '.'
+Actual end word: 'owner'
+
+Starting string: 'then there was a case of a guy who was found '
+Predicted end word: 'it'
+Actual end word: '.'
+
+Starting string: 'we can not '
+Predicted end word: 'return'
+Actual end word: 'it'
+
+Starting string: 'get over '
+Predicted end word: 'here'
+Actual end word: 'happen'
+
+Starting string: 'you 're out early because i got you a '
+Predicted end word: 'favor'
+Actual end word: 'we'
+
+Starting string: 'we 'll sleep real '
+Predicted end word: 'time'
+Actual end word: 'it'
+
+Starting string: 'phyllis , do you mind if we do n't finish this '
+Predicted end word: 'day'
+Actual end word: 'victory'
+
+Starting string: 'we was like peas and carrots '
+Predicted end word: 'again'
+Actual end word: 'within'
+
+Starting string: 'twentyfive pounds i '
+Predicted end word: 'got'
+Actual end word: 'suicidal'
+
+Starting string: 'maximum '
+Predicted end word: 'stern'
+Actual end word: 'serve'
+
+Starting string: 'from the landward side , there are no guns at '
+Predicted end word: 'you'
+Actual end word: 'm.l.s'
+
+Starting string: 'cobb , i will still honor the '
+Predicted end word: 'letter'
+Actual end word: 'walks'
+
+Starting string: 'he says you 're smart , you 're loyal and you 're not a '
+Predicted end word: 'teacher'
+Actual end word: 'card'
+
+Starting string: ''
+Predicted end word: '.'
+Actual end word: 'up'
+
+Starting string: ''
+Predicted end word: '.'
+Actual end word: 'millions'
+
+Starting string: ''
+Predicted end word: '.'
+Actual end word: 'armed'
+
+Starting string: ''
+Predicted end word: '.'
+Actual end word: 'howard'
+
+Starting string: 'here is a good '
+Predicted end word: 'one'
+Actual end word: 'pay'
+
+Starting string: 'go on , '
+Predicted end word: 'man'
+Actual end word: 'given'
+
+Starting string: 'what a ball '
+Predicted end word: 'game'
+Actual end word: 'care'
+
+Starting string: ''
+Predicted end word: '.'
+Actual end word: 'son'
+
+Starting string: 'your '
+Predicted end word: 'name'
+Actual end word: 'ordinary'
+
+Starting string: '[ lt : we 've interrupted you for a very long '
+Predicted end word: 'time'
+Actual end word: 'writing'
+
+Starting string: 'all '
+Predicted end word: 'right'
+Actual end word: 'daesu'
+
+Starting string: 'there 's the professor '
+Predicted end word: 'here'
+Actual end word: 'rolled'
+
+Starting string: ''
+Predicted end word: '.'
+Actual end word: 'big'
+
+Starting string: 'i 'm a '
+Predicted end word: 'cop'
+Actual end word: 'did'
+
+Starting string: 'you know what i '
+Predicted end word: 'mean'
+Actual end word: 'du'
+
+Starting string: ''
+Predicted end word: '.'
+Actual end word: 'did'
+
+Starting string: 'it 's '
+Predicted end word: 'beautiful'
+Actual end word: 'we'
+
+Starting string: 'he will not '
+Predicted end word: 'be'
+Actual end word: 'you'
+
+Starting string: 'skimming across the '
+Predicted end word: 'street'
+Actual end word: 'up'
+
+Starting string: 'you 'll lose a lot of '
+Predicted end word: 'money'
+Actual end word: 'cable'
+
+Starting string: 'i took up this profession when i was ten years '
+Predicted end word: 'ago'
+Actual end word: '.'
+
+Starting string: 'carolyn well , all i know is i love shooting this '
+Predicted end word: 'kitchen'
+Actual end word: 'papa'
+
+Starting string: 'did you hear what i '
+Predicted end word: 'said'
+Actual end word: 'it'
+
+Starting string: 'buffalo gals , ca n't you come out '
+Predicted end word: 'tonight'
+Actual end word: 'they'
+
+Starting string: 'goddamn it , you son of a '
+Predicted end word: 'bitch'
+Actual end word: 'right'
+
+Starting string: 'it ai n't gon na look too good killing a guy you owe money '
+Predicted end word: 'anymore'
+Actual end word: 'we'
+
+Starting string: 'that guy 's too '
+Predicted end word: 'late'
+Actual end word: 'which'
+
+Starting string: 'you read the bible , '
+Predicted end word: 'brett'
+Actual end word: 'get'
+
+Starting string: 'where shall we start our '
+Predicted end word: 'policy'
+Actual end word: 'friends'
+
+Starting string: '19. doctor & wendy walk forward along the corridor camera tracks back before them and pans rl with them to living '
+Predicted end word: 'door'
+Actual end word: 'l'
+
+Starting string: ''
+Predicted end word: '.'
+Actual end word: 'sydney'
+
+Starting string: 'lt. '
+Predicted end word: 'down'
+Actual end word: 'as'
+
+Starting string: 'she was a total slut on the outside she acted like a prude but she was a filthy whore on the inside rumors had it that that slut fucked everyone at school i should 've gotten in there i also heard that her family was really rich her grades were good , too but the bad thing was that she was a slut man wow , this is such an old story '
+Predicted end word: 'it'
+Actual end word: 'lund'
+
+Starting string: 'let 's get you outta here , '
+Predicted end word: 'man'
+Actual end word: 'song'
+
+Starting string: 'of '
+Predicted end word: 'course'
+Actual end word: 'sits'
+
+Starting string: ''
+Predicted end word: '.'
+Actual end word: 'expect'
+
+Starting string: 'do you want a '
+Predicted end word: 'drink'
+Actual end word: 'fucking'
+
+Starting string: 'i 'm '
+Predicted end word: 'sorry'
+Actual end word: 'its'
+
+Starting string: 'come on , '
+Predicted end word: 'man'
+Actual end word: 'but'
+
+Starting string: 'camera tracks back before '
+Predicted end word: 'him'
+Actual end word: 'is'
+
+Starting string: 'signore salieri , open the door , be good '
+Predicted end word: 'room'
+Actual end word: 'out'
+
+Starting string: 'he 's '
+Predicted end word: 'dead'
+Actual end word: 'find'
+
+Starting string: 'why do you linger here when there is no '
+Predicted end word: 'money'
+Actual end word: 'south'
+
+Starting string: ''
+Predicted end word: '.'
+Actual end word: 'kill'
+
+Starting string: 'do you love '
+Predicted end word: 'him'
+Actual end word: 'ah'
+
+Starting string: ''
+Predicted end word: '.'
+Actual end word: 'it'
+
+Starting string: ''
+Predicted end word: '.'
+Actual end word: 'report'
+
+Starting string: ''
+Predicted end word: '.'
+Actual end word: 'check'
+
+Starting string: ''
+Predicted end word: '.'
+Actual end word: 'up'
+
+Starting string: 'position reports and very faint sos calls from enemy '
+Predicted end word: 'order'
+Actual end word: 'watch'
+
+Starting string: 'i ca n't have '
+Predicted end word: 'it'
+Actual end word: 'situation'
+
+Starting string: 'pan it around a '
+Predicted end word: 'please'
+Actual end word: 'home'
+
+Starting string: 'please , your '
+Predicted end word: 'grace'
+Actual end word: 'suggesting'
+
+Starting string: 'salvatore carefully observes her graying hair , her blue eyes lined with wrinkles , the somewhat faded beauty mark on her '
+Predicted end word: 'face'
+Actual end word: 'enemy'
+
+Starting string: 'change to main '
+Predicted end word: 'light'
+Actual end word: 'where'
+
+Starting string: 'give me the '
+Predicted end word: 'whip'
+Actual end word: 'you'
+
+Starting string: 'your love of the halfling 's leaf has clearly slowed your '
+Predicted end word: 'lord'
+Actual end word: 'we'
+
+Starting string: 'she ca n't act , she ca n't sing and she ca n't '
+Predicted end word: 'know'
+Actual end word: 'where'
+
+Starting string: 'i draw fire '
+Predicted end word: 'imediately'
+Actual end word: 'halt'
+
+Starting string: 'd'you want to save your wife by doing what i '
+Predicted end word: 'do'
+Actual end word: 'heard'
+
+Starting string: 'it was very '
+Predicted end word: 'young'
+Actual end word: 'his'
+
+Starting string: 'come forward '
+Predicted end word: 'in'
+Actual end word: 'brother'
+
+Starting string: 'halloran glad to meet you , '
+Predicted end word: 'tony'
+Actual end word: ''ll'
+
+Starting string: 'but i think , mr. frodo , i do '
+Predicted end word: 'n't'
+Actual end word: 'here'
+
+Starting string: 'by the way , |what are we having for '
+Predicted end word: 'you'
+Actual end word: 'heheheee'
+
+Starting string: 'it bores me '
+Predicted end word: 'out'
+Actual end word: 'grin'
+
+Starting string: 'twelve o ' '
+Predicted end word: 'clock'
+Actual end word: 'music'
+
+Starting string: 'we 'll make a big '
+Predicted end word: 'deal'
+Actual end word: 'going'
+
+Starting string: 'yes , mr. '
+Predicted end word: 'kane'
+Actual end word: 'lt'
+
+Starting string: 'lester it 's '
+Predicted end word: 'okay'
+Actual end word: 'search'
+
+Starting string: 'i wo n't go in the '
+Predicted end word: 'morning'
+Actual end word: 'sir'
+
+Starting string: 'good '
+Predicted end word: 'night'
+Actual end word: 'back'
+
+Starting string: ''' `` are you '
+Predicted end word: 'ready'
+Actual end word: 'reappears'
+
+Starting string: 'not the '
+Predicted end word: 'way'
+Actual end word: 'mentioned'
+
+Starting string: 'where 's mrs. blaine 's box of '
+Predicted end word: 'coins'
+Actual end word: 'solo'
+
+Starting string: 'i know what i 'm going to do tomorrow and the next day and next year and the hear after '
+Predicted end word: 'you'
+Actual end word: 'without'
+
+Starting string: 'we have a new '
+Predicted end word: 'choice'
+Actual end word: 'danny'
+
+Starting string: 'it 's '
+Predicted end word: 'beautiful'
+Actual end word: 'couple'
+
+Starting string: 'new guy , you '
+Predicted end word: 'know'
+Actual end word: 'killer'
+
+Starting string: 'general `` buck '' schmuck he 's been here for almost two hours , and lord knows what he 's '
+Predicted end word: 'saying'
+Actual end word: '$'
+
+Starting string: 'lloyd lloyd what 'll it be , '
+Predicted end word: 'yes'
+Actual end word: 'think'
+
+Starting string: 'remember your failure at the '
+Predicted end word: 'airport'
+Actual end word: 'wild'
+
+Starting string: 'he crosses '
+Predicted end word: 'me'
+Actual end word: 'sandwiches'
+
+Starting string: ''
+Predicted end word: '.'
+Actual end word: 'jane'
+
+Starting string: 'their guns will destroy you '
+Predicted end word: 'now'
+Actual end word: 'still'
+
+Starting string: 'william '
+Predicted end word: 'wallace'
+Actual end word: 'mary'
+
+Starting string: 'split '
+Predicted end word: 'up'
+Actual end word: 'high'
+
